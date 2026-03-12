@@ -60,20 +60,3 @@
 3.  (Опционально) Установите **PlaceholderAPI** для поддержки плейсхолдеров.
 4.  Перезагрузите сервер.
 5.  Настройте `lang/ru_ru.yml` под стиль вашего сервера.
-
----
-
-## 📦 Зависимости для разработчиков (Maven)
-
-Если вы хотите собрать проект самостоятельно, убедитесь, что у вас установлен **JDK 21**.
-
-```xml
-<dependencies>
-    <dependency>
-        <groupId>io.papermc.paper</groupId>
-        <artifactId>paper-api</artifactId>
-        <version>1.21.5-R0.1-SNAPSHOT</version>
-        <scope>provided</scope>
-    </dependency>
-</dependencies>
-```
