@@ -1,8 +1,10 @@
 # ☃ JoinAuction
 
-![Version](https://img.shields.io)
-![Java](https://img.shields.io)
-![Platform](https://img.shields.io)
+---
+![Version](https://img.shields.io/badge/Version_Plugin-1.1.6-blue)  
+![Java](https://img.shields.io/badge/Java-21-orange?logo=nodedotjs)  
+![Platform](https://img.shields.io/badge/GitHub-Free-gruy?logo=github)
+---
 
 **JoinAuction** — это мощное, высокопроизводительное решение для создания аукционов, которое превращает скучную торговлю в динамичную экономическую экосистему. Забудьте о лагах и сложных командах — дайте игрокам интерфейс, в котором хочется тратить деньги!
 
